@@ -23,10 +23,10 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path="android" name="LibertyICS/android" />
+  <project path="android" name="WinSuk/android" />
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" />
-  <project path="bionic" name="LibertyICS/android_bionic" />
+  <project path="bionic" name="WinSuk/android_bionic" />
   <project path="bootable/bootloader/legacy" name="CyanogenMod/android_bootable_bootloader_legacy" />
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
@@ -39,7 +39,7 @@
   <project path="device/generic/goldfish" name="CyanogenMod/android_device_generic_goldfish" />
   <project path="device/google/accessory/arduino" name="CyanogenMod/android_device_google_accessory_arduino" />
   <project path="device/google/accessory/demokit" name="CyanogenMod/android_device_google_accessory_demokit" />
-  <project path="device/htc/liberty" name="LibertyICS/android_device_htc_liberty" />
+  <project path="device/htc/liberty" name="WinSuk/android_device_htc_liberty" />
   <project path="device/htc/msm7x27-common" name="projects/marvel/android_device_htc_msm7x27-common" remote="cryptomilk" revision="refs/heads/jellybean" />
   <project path="device/htc/msm7x27-recovery" name="projects/marvel/android_device_htc_msm7x27-recovery" remote="cryptomilk" revision="refs/heads/jellybean" />
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
@@ -202,7 +202,7 @@
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" />
   <project path="external/zxing" name="CyanogenMod/android_external_zxing" />
   <project path="frameworks/av" name="CyanogenMod/android_frameworks_av" />
-  <project path="frameworks/base" name="LibertyICS/android_frameworks_base" />
+  <project path="frameworks/base" name="WinSuk/android_frameworks_base" />
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" />
   <project path="frameworks/compile/linkloader" name="CyanogenMod/android_frameworks_compile_linkloader" />
   <project path="frameworks/compile/mclinker" name="CyanogenMod/android_frameworks_compile_mclinker" />
@@ -226,11 +226,11 @@
   <project path="hardware/invensense" name="CyanogenMod/android_hardware_invensense" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" />
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" />
-  <project path="hardware/msm7k" name="LibertyICS/android_hardware_msm7k" />
+  <project path="hardware/msm7k" name="WinSuk/android_hardware_msm7k" />
   <project path="hardware/qcom/audio" name="CyanogenMod/android_hardware_qcom_audio" />
-  <project path="hardware/qcom/display" name="LibertyICS/android_hardware_qcom_display" />
+  <project path="hardware/qcom/display" name="WinSuk/android_hardware_qcom_display" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
-  <project path="hardware/qcom/media" name="LibertyICS/android_hardware_qcom_media" />
+  <project path="hardware/qcom/media" name="WinSuk/android_hardware_qcom_media" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
   <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" />
