@@ -1,0 +1,19 @@
+Custom changes to forked CM repos
+
+bionic - d8772ee
+
+frameworks/av - dd60c3e; 862ec2f; fb39c02;
+
+frameworks/base - 7dfb206
+
+frameworks/native - 9628044
+
+hardware/msm7k - 90830b2
+
+hardware/qcom/display - b556b72
+
+hardware/qcom/media - cdac870
+
+packages/apps/Gallery2 - 6d82774
+
+packages/apps/LegacyCamera - 9651539
