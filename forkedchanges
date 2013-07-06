@@ -1,0 +1,13 @@
+Custom changes to forked CM repos
+
+bionic - 95489de
+
+frameworks_av - 36fac1c; b0f0327; 05c54a2; 219a6b5; fb255c3
+
+frameworks_native - 20dc11b
+
+hardware_qcom_media - 1a6ef8e
+
+hardware_qcom_msm7k - f1e1981
+
+packages_inputmethods_LatinIME - 97b92fa; 55ece79
